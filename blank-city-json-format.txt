@@ -1,0 +1,26 @@
+{
+    "va-hospitals": [
+        {
+            'name': 'whatever',
+            "provider-id": "490053",
+            "provider-name": "Johnston Memorial Hospital",
+            "provider-street-address": "16000 JOHNSTON MEMORIAL DRIVE",
+            "provider-city": "ABINGDON", "
+            "provider-state": "VA", "
+            "provider-zip-code": "24211",
+            "hospital-referral-region-description": "TN - Kingsport",
+            "lat": "-81.912283", "
+            "lon": "36.721623",
+            "drg-definition": {
+            "064 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC": {
+                "total-discharges": "18", 
+                "average-covered-charges": "$36,369.61",
+                "average-total-payments": "$9,537.50" },
+            "065 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC": {
+                "total-discharges": "19",
+                "average-covered-charges": "$28,974.68"
+                "average-total-payments": "$6,103.32" },
+            }
+        }
+    ]
+}
